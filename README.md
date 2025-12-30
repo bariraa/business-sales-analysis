@@ -8,12 +8,12 @@ This project analyzes sales data to generate business insights.
 - Column validation
 - KPI calculations
 - Sales visualizations
+- Monthly & yearly sales trends
 
 ## Libraries Used
 - pandas
 - matplotlib
 
 ## Future Scope
-- Monthly & yearly trends
 - Filters
 - GUI dashboard
