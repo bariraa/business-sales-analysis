@@ -1,31 +1,63 @@
-Date,Product,Category,Quantity,Price,Region
-2024-01-01,Pen,Stationery,10,20,North
-2024-01-02,Notebook,Stationery,5,100,South
-2024-01-03,Bag,Accessories,,800,East
-2024-01-04,Pen,Stationery,20,20,North
-2024-01-05,Notebook,Stationery,8,,West
-2024-01-06,Bottle,Accessories,6,250,South
-2024-01-07,Bag,Accessories,3,800,East
-2024-01-08,Pen,Stationery,15,20,
-2024-01-09,Bottle,Accessories,4,250,North
-2024-01-10,Notebook,Stationery,7,100,South
-2024-01-11,Pen,Stationery,12,20,East
-2024-01-12,Bag,Accessories,,800,West
-2024-01-13,Notebook,Stationery,9,100,North
-2024-01-14,Bottle,Accessories,5,250,South
-2024-01-15,Pen,Stationery,18,20,East
-2024-01-16,Notebook,Stationery,6,,West
-2024-01-17,Bag,Accessories,4,800,North
-2024-01-18,Bottle,Accessories,7,250,
-2024-01-19,Pen,Stationery,14,20,South
-2024-01-20,Notebook,Stationery,10,100,East
-2024-01-21,Bag,Accessories,2,800,West
-2024-01-22,Pen,Stationery,16,20,North
-2024-01-23,Bottle,Accessories,,250,South
-2024-01-24,Notebook,Stationery,11,100,East
-2024-01-25,Pen,Stationery,13,20,West
-2024-01-26,Bag,Accessories,5,800,North
-2024-01-27,Notebook,Stationery,8,100,
-2024-01-28,Bottle,Accessories,6,,South
-2024-01-29,Pen,Stationery,17,20,East
-2024-01-30,Bag,Accessories,3,800,West
+Product Name,Cat,Qty,Unit Price,Sale Date,Region_Name
+Laptop,Electronics,2,82000,2022-01-05,Karachi
+Office Chair,Furniture,3,18000,2022-01-07,Lahore
+Mobile,Electronics,4,43000,2022-01-08,Lahore
+Desk,Furniture,2,25000,2022-01-10,Islamabad
+Headphones,Accessories,8,2800,2022-01-12,Islamabad
+Tablet,Electronics,3,36000,2022-01-15,
+Keyboard,Accessories,6,2300,2022-02-02,Karachi
+Mouse,Accessories,10,1400,2022-02-06,Lahore
+Office Table,Furniture,1,40000,2022-02-09,Karachi
+Monitor,Electronics,4,40000,2022-02-10,Islamabad
+Printer,Electronics,1,52000,2022-02-14,Karachi
+USB Cable,Accessories,18,450,2022-03-01,Lahore
+Laptop,Electronics,1,,2022-03-05,Islamabad
+Office Chair,Furniture,2,,2022-03-08,Lahore
+Mobile,Electronics,5,44000,2022-03-10,Karachi
+Desk,Furniture,1,26000,2022-03-12,Islamabad
+Tablet,Electronics,2,37000,2022-03-15,Lahore
+Keyboard,Accessories,7,,2022-03-18,Islamabad
+Mouse,Accessories,12,1500,2022-04-02,
+Headphones,Accessories,6,3000,2022-04-06,Karachi
+Office Table,Furniture,2,42000,2022-04-08,Lahore
+Monitor,Electronics,3,41000,2022-04-10,Lahore
+Printer,Electronics,2,53000,2022-04-15,Islamabad
+USB Cable,Accessories,20,500,2022-04-20,Karachi
+Laptop,Electronics,2,85000,2023-01-05,Karachi
+Office Chair,Furniture,4,19000,2023-01-07,Lahore
+Mobile,Electronics,5,45000,2023-01-07,Lahore
+Desk,Furniture,2,27000,2023-01-09,Islamabad
+Headphones,Accessories,10,3000,2023-01-10,Islamabad
+Laptop,Electronics,1,,2023-01-12,Karachi
+Tablet,Electronics,3,38000,2023-01-15,
+Keyboard,Accessories,7,2500,2023-01-18,Lahore
+Mouse,Accessories,12,1500,2023-01-20,Karachi
+Office Table,Furniture,1,45000,2023-02-02,Islamabad
+Monitor,Electronics,4,42000,2023-02-05,Islamabad
+Printer,Electronics,2,55000,2023-02-08,Lahore
+USB Cable,Accessories,25,550,2023-02-12,Karachi
+Mobile,Electronics,,47000,2023-02-15,Lahore
+Desk,Furniture,1,,2023-03-01,Islamabad
+Tablet,Electronics,4,,2023-03-03,Islamabad
+Keyboard,Accessories,9,2400,2023-03-05,Karachi
+Mouse,Accessories,14,1550,2023-03-09,
+Headphones,Accessories,6,3100,2023-03-12,Lahore
+Laptop,Electronics,3,90000,2024-01-04,Islamabad
+Office Chair,Furniture,5,20000,2024-01-06,Karachi
+Mobile,Electronics,6,48000,2024-01-08,Karachi
+Desk,Furniture,3,29000,2024-01-10,Lahore
+Tablet,Electronics,5,42000,2024-01-12,Lahore
+Keyboard,Accessories,,2700,2024-01-15,Islamabad
+Mouse,Accessories,11,1650,2024-02-02,Karachi
+Headphones,Accessories,9,3300,2024-02-06,Lahore
+Office Table,Furniture,2,48000,2024-02-08,Islamabad
+Monitor,Electronics,4,44000,2024-02-10,Islamabad
+Printer,Electronics,2,58000,2024-02-14,
+USB Cable,Accessories,35,650,2024-02-18,Karachi
+Laptop,Electronics,2,,2024-03-01,Lahore
+Desk,Furniture,1,30000,2024-03-03,Islamabad
+Mobile,Electronics,7,49000,2024-03-05,Islamabad
+Tablet,Electronics,3,43000,2024-03-08,Karachi
+Keyboard,Accessories,10,2800,2024-03-12,Lahore
+Mouse,Accessories,15,,2024-03-15,Islamabad
+Office Chair,Furniture,2,,2024-03-18,Karachi

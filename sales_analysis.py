@@ -118,6 +118,8 @@ def product_sales(df):
     ax.set_title("Sales by Product")
     ax.set_xlabel("Product")
     ax.set_ylabel("Total Sales")
+    ax.tick_params(axis='x', rotation=45)
+    fig.tight_layout()
     return fig
 
 def category_sales(df):
